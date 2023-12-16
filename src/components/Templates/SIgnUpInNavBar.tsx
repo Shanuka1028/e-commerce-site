@@ -116,7 +116,7 @@ export default function SIgnUpInNavBar(props: SIgnUpInNavBarProps) {
 
 								{props.action === 'Login' ? (
 									<p className="text-center text-muted mt-5 mb-0">
-										Have already an account?{' '}
+										Have already an account ?{' '}
 										<a
 											href={props.action}
 											className="fw-bold text-body"
